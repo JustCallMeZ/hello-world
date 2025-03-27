@@ -1,0 +1,13 @@
+version = 1
+
+[[analyzers]]
+name = "csharp"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "javascript"
+
+[[analyzers]]
+name = "sql"
